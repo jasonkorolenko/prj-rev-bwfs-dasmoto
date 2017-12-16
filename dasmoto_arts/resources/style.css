@@ -1,0 +1,35 @@
+html {
+  font-family: Helvetica;
+}
+
+h1 {
+  background-image: url(/Users/jasonkorolenko/Desktop/Codestuffs/dasmoto_arts/resources/pattern.jpeg);
+  text-align: center;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+}
+
+h2 {
+  background-color: mediumspringgreen;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#brushes {
+  background-color: mediumspringgreen;
+}
+
+#frames {
+  background-color: lightcoral;
+}
+
+#paint {
+  background-color: skyblue;
+}
+
+.price {
+  font-weight: bold;
+  color: blue;
+}
